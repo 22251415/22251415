@@ -1,16 +1,17 @@
-### Hi there 👋
+# Seu Nome
 
-<!--
-**22251415/22251415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Eu sou Thiago Martin Andriolo, um entusiasta da programação com foco em desenvolvimento de backend.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente, estou estudando programação com ênfase em tecnologias de backend.
+- 💡 Tenho interesse em .
+- 💬 Estou aberto a colaborações e discussões sobre desenvolvimento de backend.
+- 📫 Como me alcançar: thiago.andriolo@live.com.
+- 🔗 LinkedIn: https://www.linkedin.com/in/thiago-andriolo-b8a6752b0/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tecnologias que estou explorando:**
+- Git
+- Github
+- Python
+- ruby
+
+
